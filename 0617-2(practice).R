@@ -184,3 +184,4 @@ fam_income
 ggplot(data = fam_income, aes(x = fam, y = mean_income)) + geom_col()
 
 
+zzzzzzzzzzzzz
